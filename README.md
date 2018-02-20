@@ -8,7 +8,7 @@ requirements.sh
 
 ### Steps to set up deploy from GitHub
 
-0. create-iam-profile-ec2.sh
-0. create-service-role.sh
-0. create-app-n-dg.sh
-0. ...comming soon
+1. create-iam-profile-ec2.sh
+2. create-service-role.sh
+3. create-app-n-dg.sh
+4. ...comming soon
