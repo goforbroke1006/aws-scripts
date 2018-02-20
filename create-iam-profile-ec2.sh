@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo 'Enter project name (HotelHeroApp): '
+echo 'Enter project name: '
 read projectName
 
 aws iam create-role \
