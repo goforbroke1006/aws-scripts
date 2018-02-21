@@ -12,3 +12,7 @@ requirements.sh
 2. create-service-role.sh
 3. create-app-n-dg.sh
 4. ...comming soon
+
+### Deploy app manually
+
+1.deploy-to-ec2.sh
